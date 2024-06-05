@@ -3,8 +3,8 @@ import './styles/globals.css';
 import { ReactNode } from 'react';
 
 export const metadata = {
-  title: 'Basketball League Seasons',
-  description: 'Landing page for basketball league seasons',
+  title: 'Yabangan',
+  description: 'Landing page for Yabangan league',
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
