@@ -1,0 +1,47 @@
+{
+    "seasons": [
+      {
+        "id": 1,
+        "name": "2020-2021",
+        "games": [
+          { "id": 1, "date": "2020-10-10", "opponent": "Team A", "result": "W" },
+          { "id": 2, "date": "2020-10-15", "opponent": "Team B", "result": "L" },
+          { "id": 3, "date": "2020-10-20", "opponent": "Team C", "result": "W" }
+        ],
+        "players": [
+          { "id": 1, "name": "Player 1", "points": 500, "assists": 200, "rebounds": 300 },
+          { "id": 2, "name": "Player 2", "points": 450, "assists": 150, "rebounds": 250 },
+          { "id": 3, "name": "Player 3", "points": 400, "assists": 180, "rebounds": 280 }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "2021-2022",
+        "games": [
+          { "id": 1, "date": "2021-10-10", "opponent": "Team X", "result": "W" },
+          { "id": 2, "date": "2021-10-15", "opponent": "Team Y", "result": "L" },
+          { "id": 3, "date": "2021-10-20", "opponent": "Team Z", "result": "W" }
+        ],
+        "players": [
+          { "id": 1, "name": "Player 1", "points": 600, "assists": 250, "rebounds": 350 },
+          { "id": 2, "name": "Player 2", "points": 550, "assists": 200, "rebounds": 300 },
+          { "id": 3, "name": "Player 3", "points": 500, "assists": 230, "rebounds": 330 }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "2022-2023",
+        "games": [
+          { "id": 1, "date": "2022-10-10", "opponent": "Team P", "result": "W" },
+          { "id": 2, "date": "2022-10-15", "opponent": "Team Q", "result": "L" },
+          { "id": 3, "date": "2022-10-20", "opponent": "Team R", "result": "W" }
+        ],
+        "players": [
+          { "id": 1, "name": "Player 1", "points": 700, "assists": 300, "rebounds": 400 },
+          { "id": 2, "name": "Player 2", "points": 650, "assists": 270, "rebounds": 370 },
+          { "id": 3, "name": "Player 3", "points": 600, "assists": 250, "rebounds": 350 }
+        ]
+      }
+    ]
+  }
+  
